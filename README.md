@@ -40,7 +40,7 @@ Discussion on the future trends in aviation, including technological advancement
 
 A collection of useful resources and references for further reading and understanding of aviation.
 
-[Stacked Hardware]([url](https://www.stackedhardware.com/))
+[Stacked Hardware]([https://www.stackedhardware.com/])
 
 Contributions to this project are welcome. Please feel free to fork this repository, make your changes, and submit a pull request.
 
